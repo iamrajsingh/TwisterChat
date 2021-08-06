@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "897621082800",
+    "project_id": "twister-2a203",
+    "storage_bucket": "twister-2a203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897621082800:android:4bba0857d8c108c34eb175",
+        "android_client_info": {
+          "package_name": "com.example.twisterchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897621082800-i7asc78cnriibf93f1u7l8htumddv9bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twisterchat",
+            "certificate_hash": "f16ef83eab2c6b9950a743c749404343b4acfb88"
+          }
+        },
+        {
+          "client_id": "897621082800-3j4hmr41tko580o7k2fuuktemjdk0rg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kRcp52TIXUoKe-ZrgbR02M9MkTRsd8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897621082800-3j4hmr41tko580o7k2fuuktemjdk0rg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
