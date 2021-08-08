@@ -83,16 +83,6 @@
 
 
 
-    <ImageView
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        android:id="@+id/logoofviewprofile"
-        android:src="@drawable/profile"
-        android:layout_alignLeft="@id/viewusername"
-        android:layout_marginLeft="-60dp"
-        app:tint="#716e6e"
-        android:layout_centerInParent="true"/>
-
 
     <EditText
         android:layout_width="match_parent"

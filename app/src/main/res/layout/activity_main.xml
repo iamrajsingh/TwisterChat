@@ -23,8 +23,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/logo"
         android:layout_alignParentBottom="true"
-        android:layout_marginTop="24dp"
-        android:layout_marginBottom="500dp"
+        android:layout_marginTop="11dp"
+        android:layout_marginBottom="513dp"
         android:padding="20dp"
         android:text="Resister"
         android:textAlignment="center"
@@ -46,12 +46,11 @@
         android:id="@+id/countrycodepicker"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="@color/grey"
         android:layout_above="@id/centerhorizontalline"
         android:layout_centerInParent="true"
         android:layout_marginLeft="100dp"
         android:layout_marginRight="100dp"
-        android:layout_marginBottom="53dp"
+        android:layout_marginBottom="35dp"
         app:ccp_areaCodeDetectedCountry="true"
         app:ccp_autoDetectCountry="true">
 
@@ -64,7 +63,6 @@
         android:layout_below="@id/centerhorizontalline"
         android:layout_marginLeft="70dp"
         android:layout_marginTop="10dp"
-        android:background="@color/grey"
         android:layout_marginRight="70dp"
         android:hint="Enter Your Number Here"
         android:inputType="number"
@@ -86,8 +84,7 @@
         android:paddingRight="40dp"
         android:text="Get OTP"
         android:textColor="#FFFFFF"
-        android:textSize="15sp"
-        >
+        android:textSize="15sp">
 
     </android.widget.Button>
 

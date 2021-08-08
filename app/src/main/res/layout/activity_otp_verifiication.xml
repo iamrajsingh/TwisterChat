@@ -53,12 +53,14 @@
 
     <TextView
         android:id="@+id/changenumber"
-        android:layout_width="wrap_content"
+        android:layout_width="324dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/getotp"
+        android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="188dp"
-        android:layout_marginEnd="49dp"
+        android:layout_marginStart="61dp"
+        android:layout_marginTop="182dp"
+        android:layout_marginEnd="26dp"
         android:text="Didn't Recieve ? Change Your Number"
         android:textColor="@color/black"
         android:textSize="18sp">
@@ -67,14 +69,14 @@
 
     <android.widget.Button
         android:id="@+id/verifyotp"
-        android:layout_width="179dp"
-        android:layout_height="48dp"
+        android:layout_width="165dp"
+        android:layout_height="wrap_content"
         android:layout_below="@id/changenumber"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginStart="117dp"
-        android:layout_marginTop="-192dp"
-        android:layout_marginEnd="115dp"
+        android:layout_marginStart="98dp"
+        android:layout_marginTop="-191dp"
+        android:layout_marginEnd="97dp"
         android:background="#039BE5"
         android:paddingLeft="40dp"
         android:paddingRight="40dp"
